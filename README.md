@@ -9,6 +9,7 @@ Browse and search these files from the hub, not here: each collection has a page
 | Folder | Hub page | Files |
 |---|---|---|
 | `occupied-museums-acts/` | [DOC-183, Official acts on the museums of occupied Ukraine, 2014 to 2026](https://totinsights.org/primary-sources/occupied-museums/doc-183.html) | 176 PDFs (4 further acts in the set are hosted on the main site) |
+| `security-acts-occupied/` | [DOC-193, Russian security law in the occupied territories](https://totinsights.org/primary-sources/rf-security-law/doc-193.html) | 22 PDFs: federal martial-law and security acts, and acts of the occupation authorities (official texts from publication.pravo.gov.ru and the Zaporizhzhia and Kherson regional portals) |
 
 `occupied-museums-acts/` was compiled by CURIA Lab (Cultural Resilience Informatics and Analysis), University of Virginia, November 2026. `INDEX.csv` and `README.txt` are CURIA Lab's index and notes, unchanged. Acts of the occupation authorities are filed under the names those authorities use for themselves; that describes the source and does not recognise it.
 
